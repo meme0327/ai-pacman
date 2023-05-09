@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\bin\Debug\Pacman_ai.exe.config
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\bin\Debug\Pacman_ai.exe
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\bin\Debug\Pacman_ai.pdb
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\obj\Debug\Pacman_ai.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\obj\Debug\Pacman_ai.Form1.resources
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\obj\Debug\Pacman_ai.Properties.Resources.resources
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\obj\Debug\Pacman_ai.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\obj\Debug\Pacman_ai.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\obj\Debug\Pacman_ai.exe
+C:\Users\hp\Desktop\Pacman game in c# (2)\Pacman game in c#\Pacman_Zagorschi_Franco\obj\Debug\Pacman_ai.pdb
